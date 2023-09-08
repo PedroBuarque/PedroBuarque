@@ -1,4 +1,4 @@
-### Opa! Tudo bom? Eu sou Pedro! 🖖😄
+### Hello there! How's going? I'm Pedro! 🖖😄
 
 <div>
   <a href="https://github.com/PedroBuarque">
