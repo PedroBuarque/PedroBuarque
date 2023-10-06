@@ -10,7 +10,6 @@
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pedro-Haskell" height="30" width="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/applicationshaskell_93694.png">
   <img align="center" alt="Pedro-C" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png">
   <img align="right" alt="Zoro-gif" src="https://cdn.discordapp.com/attachments/392497433294143488/877214524829212722/zoro_1.gif">
 </div>
