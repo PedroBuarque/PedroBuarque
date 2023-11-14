@@ -22,8 +22,4 @@
   <a href = "https://twitter.com/paidroca"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![Snake animation](https://github.com/PedroBuarque/PedroBuarque/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
