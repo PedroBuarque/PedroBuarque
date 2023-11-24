@@ -6,6 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBuarque&layout=compact&langs_count=7&theme=midnight-purple&count_private=true&hide=makefile"/>
 </div>
 
+### 🖥️ Stacks
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Selenium" height="30" width="40" src="https://user-images.githubusercontent.com/48021158/282965429-d947c071-8d84-4ac6-b19c-feb75758c309.svg">
   <img align="center" alt="Pedro-Cypress" height="30" width="40" src="https://user-images.githubusercontent.com/48021158/282965383-7290ef39-b3d9-4af7-9de8-2ea65155a938.svg">
@@ -16,7 +17,7 @@
   <img align="right" alt="Zoro-gif" src="https://cdn.discordapp.com/attachments/392497433294143488/877214524829212722/zoro_1.gif">
 </div>
 
-##
+### 🌐 Socials
 <div> 
   <a href="https://www.instagram.com/pedro.buarque/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/paidroca" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
