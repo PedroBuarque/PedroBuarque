@@ -2,18 +2,10 @@
 
 <div>
   <a href="https://github.com/PedroBuarque">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=PedroBuarque&show_icons=true&theme=midnight-purple"
-      media="(prefers-color-scheme: midnight-purple)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=PedroBuarque&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=PedroBuarque&show_icons=true" />
-  </picture>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroBuarque&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_rank=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBuarque&layout=compact&langs_count=7&theme=midnight-purple&count_private=true&hide=makefile"/>
 </div>
+
 ### 🖥️ Stacks
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Selenium" height="30" width="40" src="https://user-images.githubusercontent.com/48021158/282965429-d947c071-8d84-4ac6-b19c-feb75758c309.svg">
