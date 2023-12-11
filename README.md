@@ -1,5 +1,9 @@
 ### Hello there! How's going? I'm Pedro! 🖖😄
 
+A student super enthusiastic about the world of technology and its possibilities, passionate about development and problem solving!
+
+### :octocat: GitHub Stats
+
 <div>
   <a href="https://github.com/PedroBuarque">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroBuarque&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_rank=true"/>
